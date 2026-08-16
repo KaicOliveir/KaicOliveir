@@ -17,7 +17,7 @@
 align="right" 
 alt="Anime coding"
 title="Anime Coding"
-width="300"
+width="200"
 src="https://media1.tenor.com/m/nBWlYPbKxzwAAAAC/anime-happy.gif"
 />
 
