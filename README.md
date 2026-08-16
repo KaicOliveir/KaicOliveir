@@ -60,10 +60,13 @@ src="https://media1.tenor.com/m/nBWlYPbKxzwAAAAC/anime-happy.gif"
 
 ## 📈 Atividade no GitHub
 
-## 👾 Contribuições
+## 👾 Minhas Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KaicOliveir/KaicOliveir/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph"/>
+  <img 
+    src="https://raw.githubusercontent.com/KaicOliveir/KaicOliveir/gh-pages/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man contribution graph"
+  />
 </div>
 
 ## 🌐 Conecte-se comigo
