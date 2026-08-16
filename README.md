@@ -60,11 +60,10 @@ src="https://media1.tenor.com/m/nBWlYPbKxzwAAAAC/anime-happy.gif"
 
 ## 📈 Atividade no GitHub
 
+## 👾 Contribuições
+
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KaicOliveir&theme=dracula"
-    alt="Gráfico de atividade do GitHub"
-  />
+  <img src="https://raw.githubusercontent.com/KaicOliveir/KaicOliveir/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph"/>
 </div>
 
 ## 🌐 Conecte-se comigo
